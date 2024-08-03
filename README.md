@@ -16,7 +16,7 @@ To get started with this project, follow the steps below:
 
    ```bash
    git clone https://github.com/ArchanaShah3/React-Router.git
-   cd mini-web-app
+   cd React-Router
    ```
 
 2. **Install dependencies**:
